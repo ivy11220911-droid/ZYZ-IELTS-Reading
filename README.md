@@ -9,8 +9,13 @@
 ├── js/                 # 页面逻辑脚本
 ├── css/                # 样式文件
 ├── assets/             # 静态资源
-└── ReadingPractice/    # 281 篇雅思阅读 PDF 题目
+├── ReadingPractice/    # 281 篇雅思阅读 PDF 题目
+└── PASSAGE-1011/       # PASSAGE by ZYZ 离线练习网页（2026-10-11-r3 版，81MB 单文件）
 ```
+
+## 📝 PASSAGE-1011 离线练习版
+
+`PASSAGE-1011/PASSAGE-by-ZYZ-IELTS-Reading-2026-10-11-r3.html` 是一个**自包含的离线练习网页**（学习记录保存在浏览器本地），使用前请先阅读同目录下的 `使用说明.txt`。下载后用 Chrome/Edge 打开即可，无需其他文件。
 
 ## 🚀 使用方式
 
