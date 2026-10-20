@@ -1,0 +1,4 @@
+# 工作目录与系统文件
+.workbuddy/
+.DS_Store
+Thumbs.db
