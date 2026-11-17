@@ -73,8 +73,9 @@ python3 -m http.server 8000
 | `index.html` | Atlas 主程序入口 |
 | `js/` `css/` `assets/` | Atlas 的脚本、样式与资源（**不能删**，否则打不开） |
 | `ReadingPractice/` | **281 篇雅思阅读 PDF 题目**（按编号命名） |
+| `PASSAGE-1011/` | PASSAGE **旧版**（2026-10-11-r3），仅作存档保留，**已不再更新**，请使用上方 Release 里的最新版 |
 
-PASSAGE 为单文件网页，不占用以上目录。
+PASSAGE 最新版为单文件网页，不占用以上目录。
 
 ---
 
